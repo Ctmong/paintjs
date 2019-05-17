@@ -1,2 +1,2 @@
 # paintjs
-Painting Board
+Painting Board practice
